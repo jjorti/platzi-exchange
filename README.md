@@ -1,5 +1,7 @@
 # platzi-exchange
 
+Una aplicacion de monedas virtuales, puedes encontrar la aplicacion en produccion en https://platzi-exchange-jjos.netlify.app/
+
 ## Project setup
 ```
 npm install
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
